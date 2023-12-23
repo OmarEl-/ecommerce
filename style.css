@@ -210,6 +210,9 @@ ul.thumbnail-list li a img{
 
 /*==== Media Query ===*/
 @media (max-width: 992px) {
+.navbar-nav li a span{
+display:none;
+}
 .verticalNav .btn0{
 display:block;
 }
